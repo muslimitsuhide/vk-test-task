@@ -2,22 +2,22 @@
 
 1. Перейдем в каталог, который хотим клонировать репозиторий с нашим приложением: 
 
-    `cd path/to/your/directory`
+    ```cd path/to/your/directory```
 
 2. Клонируем репозиторий:
 
-    `git clone https://github.com/muslimitsuhide/vk-test-task.git`
+    ```git clone https://github.com/muslimitsuhide/vk-test-task.git```
 
 3. Перейдем к самому репозиторию:
 
-    `cd react-vk-project`
+    ```cd react-vk-project```
 
 4. Установим зависимости:
 
-    `npm install`
+    ```npm install```
 
 5. Запустим приложение:
 
-    `npm start`
+    ```npm start```
 
 После успешного выполнения всех пунктов запустится локально наше приложение. Оно будет доступно по адресу: http://localhost:3000/ в браузере.
